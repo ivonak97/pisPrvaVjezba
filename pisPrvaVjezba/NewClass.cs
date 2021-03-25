@@ -6,5 +6,8 @@ namespace pisPrvaVjezba
 {
     class NewClass
     {
+        public NewClass()
+        {get;}
+        {set;}
     }
 }
