@@ -6,5 +6,10 @@ namespace pisPrvaVjezba
 {
     class NewClass
     {
+        void mojaMetoda()
+        {
+
+        }
     }
+   
 }
