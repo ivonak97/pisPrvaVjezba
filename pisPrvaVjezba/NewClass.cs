@@ -6,7 +6,10 @@ namespace pisPrvaVjezba
 {
     class NewClass
     {
-      
+
+        public NewClass()
+        { }
+
     }
    
 }
